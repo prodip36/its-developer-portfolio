@@ -23,8 +23,9 @@ body {
  }
  nav{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
  }
  nav li{
     list-style: none;
@@ -38,7 +39,7 @@ nav a{
 
 .primary-btn{
     background-color: #FD6E0A;
-    width: 90px;
+    width: 100px;
     height: 40px;
     border: 0px;
     color: white;
@@ -49,7 +50,14 @@ nav a{
 .header{
     background-color: #FFF8F3;
 }
-
+.banner{
+    padding: 30px 30px 30px 200px;
+    display: flex;
+}
+.banner .profile-pic{
+width: 400px;
+height: 476px;
+}
 
 
 
