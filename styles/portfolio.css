@@ -174,85 +174,116 @@ nav a {
     margin: 3px auto;
 
 }
+
 /*Skill section*/
-.skill-descrip,.resume-container{
-    padding:1px 170px;
+.skill-descrip,
+.resume-container {
+    padding: 1px 170px;
     display: flex;
     justify-content: space-around;
 }
-.skill{
+
+.skill {
     padding: 40px;
     gap: 40px;
 }
+
 /*resume section*/
-.resume-column-title{
-/* My Education */
-font-weight: 700;
-font-size: 30px;
-color: #474747;
+.resume-column-title {
+    /* My Education */
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
 }
-.my-resume{
+
+.my-resume {
     font-size: 30px;
     margin-bottom: 50px;
 }
-.resume-container{
+
+.resume-container {
     display: flex;
     gap: 50px;
 }
-.resume-item-title{
+
+.resume-item-title {
     /* Master in Computer Engineering */
-font-weight: 700;
-font-size: 25px;
-color: #474747;
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
 
 
 }
-.resume-item-institute{
-font-weight: 600;
-font-size: 20px;
-color: #757575;
+
+.resume-item-institute {
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
 }
-.resume-item-description{
-font-weight: 400;
-font-size: 16px;
-color: #757575;
+
+.resume-item-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
 }
-.download-cv{
+
+.download-cv {
     text-align: center;
     margin-top: 30px;
 }
-.down-cv{
+
+.down-cv {
     width: 150px;
     height: 50px;
     justify-content: space-around;
 }
+
 /*footer section*/
-footer{
+footer {
     background: #FFF8F3;
     padding: 50px 150px;
     margin-top: 80px;
     display: flex;
     justify-content: space-around;
-   
-}
-.footer-column{
+    
 
-    gap: 50px;
-   
 }
-footer-title{
-font-weight: 700;
-font-size: 35px;
-text-align: center;
-color: #181818;
 
+.footer-column {
+    margin-left: 100px;
+    width: 50%;
+
+}
+
+footer-title {
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    color: #181818;
+    gap: 100px;
+
+
+}
+
+.footer-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #474747;
+
+}
+
+.contact input[type="text"],.contact input[type="email"],
+textarea {
+    display: block;
+    margin: 25px;
+    padding: 18px 35px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+    border: 0px;
+    border-radius: 5px;
 
 }
 .footer-description{
-font-weight: 400;
-font-size: 16px;
-color: #474747;
-
+    font-size: 15px;
 }
-
-
