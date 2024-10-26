@@ -175,7 +175,7 @@ nav a {
 
 }
 /*Skill section*/
-.skill-descrip{
+.skill-descrip,.resume-container{
     padding:1px 170px;
     display: flex;
     justify-content: space-around;
@@ -190,6 +190,29 @@ nav a {
 font-weight: 700;
 font-size: 30px;
 color: #474747;
+}
+.my-resume{
+    font-size: 30px;
+}
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+.resume-item-title{
+    /* Master in Computer Engineering */
+font-weight: 700;
+font-size: 25px;
+color: #474747;
 
 
+}
+.resume-item-institute{
+font-weight: 600;
+font-size: 20px;
+color: #757575;
+}
+.resume-item-description{
+font-weight: 400;
+font-size: 16px;
+color: #757575;
 }
