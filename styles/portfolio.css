@@ -226,3 +226,33 @@ color: #757575;
     height: 50px;
     justify-content: space-around;
 }
+/*footer section*/
+footer{
+    background: #FFF8F3;
+    padding: 50px 150px;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+   
+}
+.footer-column{
+
+    gap: 50px;
+   
+}
+footer-title{
+font-weight: 700;
+font-size: 35px;
+text-align: center;
+color: #181818;
+
+
+}
+.footer-description{
+font-weight: 400;
+font-size: 16px;
+color: #474747;
+
+}
+
+
