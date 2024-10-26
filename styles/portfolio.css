@@ -134,6 +134,7 @@ color: #181818;
     border-radius: 10px;
     background: #FFF8F3;
     margin: 100px 150px;
+    
 }
 .section-description{
 
@@ -148,3 +149,10 @@ color: #757575;
 
 }
 
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
