@@ -116,43 +116,71 @@ nav a {
 
 /*Main section starts*/
 /*about section*/
-.section-title{
+.section-title {
     /* About Me */
 
-width: 827px;
-height: 48px;
+    width: 827px;
+    height: 48px;
 
-font-family: 'Open Sans';
-font-style: normal;
-font-weight: 700;
-text-align: center;
-color: #181818;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+    color: #181818;
 
 }
-.about{
+
+.about {
     padding: 100px 50px;
     border-radius: 10px;
     background: #FFF8F3;
     margin: 100px 150px;
-    
-}
-.section-description{
-
-width: 827px;
-height: 120px;
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 30px;
-text-align: center;
-color: #757575;
 
 }
 
-.about-info-container{
+.section-description {
+
+    width: 827px;
+    height: 120px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #757575;
+
+}
+
+.about-info-container {
     display: flex;
     justify-content: space-around;
 }
-.about-info{
+
+.about-info {
     text-align: center;
+}
+
+/*what i do section*/
+.what-i-do-title {
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+#what-i-do-description {
+    font-size: 15px;
+    padding: 30px;
+    text-align: center;
+    color: #757575;
+    margin: 3px auto;
+
+}
+/*Skill section*/
+.skill-descrip{
+    padding:1px 170px;
+    display: flex;
+    justify-content: space-around;
+}
+.skill{
+    padding: 40px;
+    gap: 40px;
 }
