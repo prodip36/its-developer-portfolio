@@ -184,3 +184,12 @@ nav a {
     padding: 40px;
     gap: 40px;
 }
+/*resume section*/
+.resume-column-title{
+/* My Education */
+font-weight: 700;
+font-size: 30px;
+color: #474747;
+
+
+}
