@@ -193,6 +193,7 @@ color: #474747;
 }
 .my-resume{
     font-size: 30px;
+    margin-bottom: 50px;
 }
 .resume-container{
     display: flex;
@@ -215,4 +216,13 @@ color: #757575;
 font-weight: 400;
 font-size: 16px;
 color: #757575;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 30px;
+}
+.down-cv{
+    width: 150px;
+    height: 50px;
+    justify-content: space-around;
 }
