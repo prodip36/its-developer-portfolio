@@ -55,14 +55,14 @@ nav a {
 /*Header related styles*/
 .header {
     background-color: #FFF8F3;
-    background-image: url(../images/header_bg.png);
+    background-image: url('../images/header_bg.png');
     background-repeat: no-repeat;
     background-position: bottom right;
 
 }
 
 .header2 {
-    background-image: url(../images/developer.png);
+    background-image: url('../images/developer.png');
     background-position: bottom left;
     background-size: 80px;
 
